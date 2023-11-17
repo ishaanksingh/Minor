@@ -32,10 +32,10 @@ def check_parameters(html_content):
 
 def main():
     # Specify the path to your Excel file
-    excel_file_path = 'C:/Users/ISHANK/Desktop/pyrthon/DATABASEAREA.xlsx'
+    excel_file_path = '/Users/charvi/Minor-1/pyrthon/DATABASEAREA.xlsx'
 
     # Specify the CSV file to store matched parameters
-    output_csv_path = 'C:/Users/ISHANK/Desktop/pyrthon/output.csv'
+    output_csv_path = '/Users/charvi/Minor-1/pyrthon/output.csv'
 
     try:
         # Read the Excel file into a DataFrame

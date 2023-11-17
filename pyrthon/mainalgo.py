@@ -1,4 +1,3 @@
-
 import requests
 import pandas as pd
 from bs4 import BeautifulSoup
@@ -32,10 +31,10 @@ def check_parameters(html_content):
 
 def main():
     # Specify the path to your Excel file
-    excel_file_path = 'C:/Users/ISHANK/Desktop/pyrthon/DATABASEAREA.xlsx'
+    excel_file_path = '/Users/charvi/Minor-1/pyrthon/DATABASEAREA.xlsx'
 
     # Specify the CSV file to store matched parameters
-    output_csv_path = 'C:/Users/ISHANK/Desktop/pyrthon/output.csv'
+    output_csv_path = '/Users/charvi/Minor-1/pyrthon/output.csv'
 
     try:
         # Read the Excel file into a DataFrame
@@ -81,6 +80,9 @@ def main():
             # Try saving to CSV with a different path
             df_result.to_csv(output_csv_path, index=False)
             print(f"\nMatched parameters saved to '{output_csv_path}'")
+
+        else:
+            print("\nNo matched parameters found.")
 
     except FileNotFoundError:
         print(f"Error: File not found at {excel_file_path}")
