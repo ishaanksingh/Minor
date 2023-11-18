@@ -1,0 +1,22 @@
+Parameter,Percentage
+1.1 Building is resting on ground that has failed due to Landslide/Fissures and Liquefaction.,4.761904761904762
+1.2 Building is tilted.,4.761904761904762
+"1.3 Building is resting on hill slopes or adjacent to hill slopes, and has unsafe/tilted adjoining/uphill building or loose boulders.",4.761904761904762
+2.1 Building is resting on river terraces that have cracked soil.,4.761904761904762
+2.2 Building has sustained uneven settlement of the ground.,4.761904761904762
+2.3 Building is resting on liquefied soil.,4.761904761904762
+2.4 Uneven Settlement of building leading to visual damage.,4.761904761904762
+3.1 Building has pounding damage from adjoining building or structure.,4.761904761904762
+3.2 Building has collapsed/damaged staircase/mumty or blockade of staircase.,4.761904761904762
+3.3 Building has an Open storey (at ground /other level) with columns having shear cracks.,4.761904761904762
+3.4 Building has Floating Columns with cracked supporting beams.,4.761904761904762
+3.5 Building has main load resisting columns with shear cracks.,4.761904761904762
+3.6 Building has main load resisting short columns with shear cracks.,4.761904761904762
+3.7 Building has Flat Slab with punching shear failure.,4.761904761904762
+3.8 Building has spalling of cover concrete in main load resisting columns.,4.761904761904762
+3.9 Building has extensive X cracking or out-of-plane collapse of infills.,4.761904761904762
+3.10 No seismic separation between staircase and building.,4.761904761904762
+4.1 Building is adjacent to a failed slope.,4.761904761904762
+"5.1 Building has sustained collapse of cantilevers, balconies, chimneys, and parapets.",4.761904761904762
+5.2 Building has water tanks on roof displaced from their supports.,4.761904761904762
+"5.3 Building has sustained extensive separation between infill wall and frame members, and has no damage in columns.",4.761904761904762
